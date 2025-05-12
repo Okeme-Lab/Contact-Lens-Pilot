@@ -1,0 +1,898 @@
+Compound,RT,Filename,Area,m/z (Apex),ISTD Response,Actual RT,RT Delta,m/z (Expected),m/z (Delta)
+BDE 100,15.72,Blk_001,N/F,N/F,3968217,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,P12_B_001,N/F,N/F,6973854,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,P12_D1_001,N/F,N/F,6306157,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,P12_D2_001,934,565.61755,5854375,15.77,0.05,<multiple>,-2.62772 (ppm)
+BDE 100,15.72,P12_D3_001,N/F,N/F,6321116,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,P14_B_001,N/F,N/F,5653277,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,P14_D1_001,1526,565.6203,5548788,15.78,0.06,<multiple>,2.22817 (ppm)
+BDE 100,15.72,P14_D2_001,N/F,N/F,4391306,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,P14_D3_001,N/F,N/F,4577212,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,P14_D3_002,N/F,N/F,3966503,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,P15_B_001,N/F,N/F,4199472,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,P15_D1_001,N/F,N/F,4186286,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,P15_D2_001,N/F,N/F,3600742,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,P15_D3_001,N/F,N/F,5081949,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,P16_B_001,N/F,N/F,5455441,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,P16_D1_001,N/F,N/F,4601497,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,P16_D2_001,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,P16_D3_001,N/F,N/F,3687796,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,QCB_001,N/F,N/F,6299443,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,QCP_001,N/F,N/F,5292044,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,SolventBlank_001,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,SolventBlank_002,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+BDE 100,15.72,Spk2_001,N/F,N/F,2890028,N/F,N/F,<multiple>,N/F
+BDE 17,14.21,Blk_001,N/F,N/F,3968217,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P12_B_001,N/F,N/F,6973854,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P12_D1_001,N/F,N/F,6306157,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P12_D2_001,N/F,N/F,5854375,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P12_D3_001,N/F,N/F,6321116,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P14_B_001,N/F,N/F,5653277,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P14_D1_001,N/F,N/F,5548788,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P14_D2_001,N/F,N/F,4391306,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P14_D3_001,N/F,N/F,4577212,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P14_D3_002,N/F,N/F,3966503,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P15_B_001,N/F,N/F,4199472,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P15_D1_001,N/F,N/F,4186286,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P15_D2_001,N/F,N/F,3600742,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P15_D3_001,N/F,N/F,5081949,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P16_B_001,N/F,N/F,5455441,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P16_D1_001,N/F,N/F,4601497,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P16_D2_001,N/F,N/F,N/F,N/F,N/F,405.80211,N/F
+BDE 17,14.21,P16_D3_001,N/F,N/F,3687796,N/F,N/F,405.80211,N/F
+BDE 17,14.21,QCB_001,N/F,N/F,6299443,N/F,N/F,405.80211,N/F
+BDE 17,14.21,QCP_001,N/F,N/F,5292044,N/F,N/F,405.80211,N/F
+BDE 17,14.21,SolventBlank_001,N/F,N/F,N/F,N/F,N/F,405.80211,N/F
+BDE 17,14.21,SolventBlank_002,N/F,N/F,N/F,N/F,N/F,405.80211,N/F
+BDE 17,14.21,Spk2_001,N/F,N/F,2890028,N/F,N/F,405.80211,N/F
+BDE 28,14.53,Blk_001,N/F,N/F,3968217,N/F,N/F,405.80211,N/F
+BDE 28,14.53,P12_B_001,N/F,N/F,6973854,N/F,N/F,405.80211,N/F
+BDE 28,14.53,P12_D1_001,N/F,N/F,6306157,N/F,N/F,405.80211,N/F
+BDE 28,14.53,P12_D2_001,3927,405.80072,5854375,15.97,1.44,405.80211,-3.42479 (ppm)
+BDE 28,14.53,P12_D3_001,N/F,N/F,6321116,N/F,N/F,405.80211,N/F
+BDE 28,14.53,P14_B_001,N/F,N/F,5653277,N/F,N/F,405.80211,N/F
+BDE 28,14.53,P14_D1_001,N/F,N/F,5548788,N/F,N/F,405.80211,N/F
+BDE 28,14.53,P14_D2_001,N/F,N/F,4391306,N/F,N/F,405.80211,N/F
+BDE 28,14.53,P14_D3_001,N/F,N/F,4577212,N/F,N/F,405.80211,N/F
+BDE 28,14.53,P14_D3_002,N/F,N/F,3966503,N/F,N/F,405.80211,N/F
+BDE 28,14.53,P15_B_001,N/F,N/F,4199472,N/F,N/F,405.80211,N/F
+BDE 28,14.53,P15_D1_001,N/F,N/F,4186286,N/F,N/F,405.80211,N/F
+BDE 28,14.53,P15_D2_001,N/F,N/F,3600742,N/F,N/F,405.80211,N/F
+BDE 28,14.53,P15_D3_001,N/F,N/F,5081949,N/F,N/F,405.80211,N/F
+BDE 28,14.53,P16_B_001,N/F,N/F,5455441,N/F,N/F,405.80211,N/F
+BDE 28,14.53,P16_D1_001,N/F,N/F,4601497,N/F,N/F,405.80211,N/F
+BDE 28,14.53,P16_D2_001,N/F,N/F,N/F,N/F,N/F,405.80211,N/F
+BDE 28,14.53,P16_D3_001,N/F,N/F,3687796,N/F,N/F,405.80211,N/F
+BDE 28,14.53,QCB_001,N/F,N/F,6299443,N/F,N/F,405.80211,N/F
+BDE 28,14.53,QCP_001,N/F,N/F,5292044,N/F,N/F,405.80211,N/F
+BDE 28,14.53,SolventBlank_001,N/F,N/F,N/F,N/F,N/F,405.80211,N/F
+BDE 28,14.53,SolventBlank_002,N/F,N/F,N/F,N/F,N/F,405.80211,N/F
+BDE 28,14.53,Spk2_001,269,405.80032,2890028,15.02,0.49,405.80211,-4.40243 (ppm)
+BDE 47,16.77,Blk_001,N/F,N/F,3968217,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P12_B_001,N/F,N/F,6973854,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P12_D1_001,N/F,N/F,6306157,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P12_D2_001,N/F,N/F,5854375,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P12_D3_001,N/F,N/F,6321116,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P14_B_001,N/F,N/F,5653277,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P14_D1_001,N/F,N/F,5548788,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P14_D2_001,N/F,N/F,4391306,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P14_D3_001,N/F,N/F,4577212,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P14_D3_002,N/F,N/F,3966503,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P15_B_001,N/F,N/F,4199472,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P15_D1_001,N/F,N/F,4186286,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P15_D2_001,N/F,N/F,3600742,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P15_D3_001,N/F,N/F,5081949,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P16_B_001,N/F,N/F,5455441,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P16_D1_001,N/F,N/F,4601497,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P16_D2_001,N/F,N/F,N/F,N/F,N/F,485.71057,N/F
+BDE 47,16.77,P16_D3_001,N/F,N/F,3687796,N/F,N/F,485.71057,N/F
+BDE 47,16.77,QCB_001,N/F,N/F,6299443,N/F,N/F,485.71057,N/F
+BDE 47,16.77,QCP_001,N/F,N/F,5292044,N/F,N/F,485.71057,N/F
+BDE 47,16.77,SolventBlank_001,N/F,N/F,N/F,N/F,N/F,485.71057,N/F
+BDE 47,16.77,SolventBlank_002,299,485.71063,N/F,15.44,-1.33,485.71057,.12832 (ppm)
+BDE 47,16.77,Spk2_001,N/F,N/F,2890028,N/F,N/F,485.71057,N/F
+BDE 99,18.36,Blk_001,N/F,N/F,3968217,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P12_B_001,N/F,N/F,6973854,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P12_D1_001,N/F,N/F,6306157,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P12_D2_001,N/F,N/F,5854375,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P12_D3_001,N/F,N/F,6321116,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P14_B_001,N/F,N/F,5653277,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P14_D1_001,N/F,N/F,5548788,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P14_D2_001,N/F,N/F,4391306,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P14_D3_001,N/F,N/F,4577212,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P14_D3_002,N/F,N/F,3966503,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P15_B_001,N/F,N/F,4199472,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P15_D1_001,N/F,N/F,4186286,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P15_D2_001,N/F,N/F,3600742,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P15_D3_001,N/F,N/F,5081949,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P16_B_001,N/F,N/F,5455441,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P16_D1_001,N/F,N/F,4601497,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P16_D2_001,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,P16_D3_001,N/F,N/F,3687796,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,QCB_001,N/F,N/F,6299443,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,QCP_001,N/F,N/F,5292044,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,SolventBlank_001,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,SolventBlank_002,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+BDE 99,18.36,Spk2_001,N/F,N/F,2890028,N/F,N/F,<multiple>,N/F
+Benzyl butyl phthalate - BBP,13.61,Blk_001,N/F,N/F,17480438,N/F,N/F,<multiple>,N/F
+Benzyl butyl phthalate - BBP,13.61,P12_B_001,827904,149.02335,41536369,13.6,-0.01,<multiple>,.97936 (ppm)
+Benzyl butyl phthalate - BBP,13.61,P12_D1_001,1305507,149.02333,39217719,13.6,-0.01,<multiple>,.87697 (ppm)
+Benzyl butyl phthalate - BBP,13.61,P12_D2_001,797232,149.02335,38923782,13.6,-0.01,<multiple>,.97936 (ppm)
+Benzyl butyl phthalate - BBP,13.61,P12_D3_001,804452,149.02333,43800400,13.6,-0.01,<multiple>,.87697 (ppm)
+Benzyl butyl phthalate - BBP,13.61,P14_B_001,624366,149.02336,38869530,13.61,0.00,<multiple>,1.08175 (ppm)
+Benzyl butyl phthalate - BBP,13.61,P14_D1_001,1038155,149.02339,39312935,13.61,0.00,<multiple>,1.28654 (ppm)
+Benzyl butyl phthalate - BBP,13.61,P14_D2_001,1438245,149.02339,32902200,13.61,0.00,<multiple>,1.28654 (ppm)
+Benzyl butyl phthalate - BBP,13.61,P14_D3_001,656785,149.02339,35476817,13.61,0.00,<multiple>,1.28654 (ppm)
+Benzyl butyl phthalate - BBP,13.61,P14_D3_002,579860,149.02339,33369590,13.61,0.00,<multiple>,1.28654 (ppm)
+Benzyl butyl phthalate - BBP,13.61,P15_B_001,780545,149.02338,31544020,13.61,0.00,<multiple>,1.18414 (ppm)
+Benzyl butyl phthalate - BBP,13.61,P15_D1_001,509590,149.02336,31879862,13.6,-0.01,<multiple>,1.08175 (ppm)
+Benzyl butyl phthalate - BBP,13.61,P15_D2_001,227675,149.02338,28447660,13.6,-0.01,<multiple>,1.18414 (ppm)
+Benzyl butyl phthalate - BBP,13.61,P15_D3_001,1903500,149.02335,33204869,13.6,-0.01,<multiple>,.97936 (ppm)
+Benzyl butyl phthalate - BBP,13.61,P16_B_001,6401721,149.02336,30294614,13.6,-0.01,<multiple>,1.08175 (ppm)
+Benzyl butyl phthalate - BBP,13.61,P16_D1_001,385688,149.02336,35263826,13.6,-0.01,<multiple>,1.08175 (ppm)
+Benzyl butyl phthalate - BBP,13.61,P16_D2_001,N/F,N/F,235,N/F,N/F,<multiple>,N/F
+Benzyl butyl phthalate - BBP,13.61,P16_D3_001,319054,149.02341,27683422,13.6,-0.01,<multiple>,1.38893 (ppm)
+Benzyl butyl phthalate - BBP,13.61,QCB_001,929714,149.02335,39860953,13.6,-0.01,<multiple>,.97936 (ppm)
+Benzyl butyl phthalate - BBP,13.61,QCP_001,496810,149.02336,34127669,13.61,0.00,<multiple>,1.08175 (ppm)
+Benzyl butyl phthalate - BBP,13.61,SolventBlank_001,531,149.02332,49044,13.99,0.38,<multiple>,.77458 (ppm)
+Benzyl butyl phthalate - BBP,13.61,SolventBlank_002,234,149.02342,6221,13.47,-0.14,<multiple>,1.49132 (ppm)
+Benzyl butyl phthalate - BBP,13.61,Spk2_001,31707,149.02336,18145852,13.61,0.00,<multiple>,1.08175 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,Blk_001,N/F,N/F,17480438,N/F,N/F,153.0484,N/F
+Bis(2- ethylhexyl) phthalate-d4,14.65,P12_B_001,27153110,153.04836,41536369,14.62,-0.03,153.0484,-.29335 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,P12_D1_001,38625511,153.04837,39217719,14.62,-0.03,153.0484,-.19366 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,P12_D2_001,34952851,153.04831,38923782,14.62,-0.03,153.0484,-.59245 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,P12_D3_001,37139936,153.04836,43800400,14.62,-0.03,153.0484,-.29335 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,P14_B_001,22040530,153.04832,38869530,14.62,-0.03,153.0484,-.49275 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,P14_D1_001,27767882,153.04834,39312935,14.63,-0.02,153.0484,-.39305 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,P14_D2_001,28288382,153.04836,32902200,14.63,-0.02,153.0484,-.29335 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,P14_D3_001,25309031,153.04834,35476817,14.62,-0.03,153.0484,-.39305 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,P14_D3_002,23253219,153.04836,33369590,14.63,-0.02,153.0484,-.29335 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,P15_B_001,36738387,153.04829,31544020,14.63,-0.02,153.0484,-.69215 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,P15_D1_001,32736645,153.04839,31879862,14.62,-0.03,153.0484,-.09396 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,P15_D2_001,24727998,153.04831,28447660,14.62,-0.03,153.0484,-.59245 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,P15_D3_001,23999281,153.04842,33204869,14.64,-0.01,153.0484,.10544 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,P16_B_001,17598333,153.04843,30294614,14.69,0.04,153.0484,.20514 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,P16_D1_001,26936536,153.04836,35263826,14.62,-0.03,153.0484,-.29335 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,P16_D2_001,N/F,N/F,235,N/F,N/F,153.0484,N/F
+Bis(2- ethylhexyl) phthalate-d4,14.65,P16_D3_001,23605404,153.04832,27683422,14.62,-0.03,153.0484,-.49275 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,QCB_001,25252420,153.04848,39860953,14.64,-0.01,153.0484,.50424 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,QCP_001,30390208,153.04843,34127669,14.63,-0.02,153.0484,.20514 (ppm)
+Bis(2- ethylhexyl) phthalate-d4,14.65,SolventBlank_001,N/F,N/F,49044,N/F,N/F,153.0484,N/F
+Bis(2- ethylhexyl) phthalate-d4,14.65,SolventBlank_002,N/F,N/F,6221,N/F,N/F,153.0484,N/F
+Bis(2- ethylhexyl) phthalate-d4,14.65,Spk2_001,7941084,153.04836,18145852,14.63,-0.02,153.0484,-.29335 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,Blk_001,8138,149.02348,N/A,13.61,-0.49,149.0233,1.22985 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,P12_B_001,205156,149.02335,N/A,14.37,0.27,149.0233,.30832 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,P12_D1_001,1360588,149.02333,N/A,13.6,-0.50,149.0233,.20593 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,P12_D2_001,47176,149.02338,N/A,14.37,0.27,149.0233,.51311 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,P12_D3_001,263928,149.02336,N/A,14.36,0.26,149.0233,.41071 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,P14_B_001,640704,149.02336,N/A,13.61,-0.49,149.0233,.41071 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,P14_D1_001,1090924,149.02341,N/A,13.6,-0.50,149.0233,.71789 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,P14_D2_001,1490240,149.02341,N/A,13.6,-0.50,149.0233,.71789 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,P14_D3_001,678265,149.02339,N/A,13.61,-0.49,149.0233,.61550 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,P14_D3_002,614430,149.02339,N/A,13.61,-0.49,149.0233,.61550 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,P15_B_001,801506,149.02338,N/A,13.61,-0.49,149.0233,.51311 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,P15_D1_001,524188,149.02335,N/A,13.6,-0.50,149.0233,.30832 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,P15_D2_001,240820,149.02338,N/A,13.6,-0.50,149.0233,.51311 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,P15_D3_001,87086854,149.02318,N/A,14.37,0.27,149.0233,-.81799 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,P16_B_001,318314567,149.02313,N/A,14.37,0.27,149.0233,-1.12516 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,P16_D1_001,363233,149.02336,N/A,13.6,-0.50,149.0233,.41071 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,P16_D2_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Bis(2-butoxyethyl) phthalate,14.1,P16_D3_001,333374,149.02341,N/A,13.6,-0.50,149.0233,.71789 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,QCB_001,41126824,149.02319,N/A,14.37,0.27,149.0233,-.71560 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,QCP_001,5911193,149.02332,N/A,14.38,0.28,149.0233,.10354 (ppm)
+Bis(2-butoxyethyl) phthalate,14.1,SolventBlank_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Bis(2-butoxyethyl) phthalate,14.1,SolventBlank_002,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Bis(2-butoxyethyl) phthalate,14.1,Spk2_001,28763,149.02336,N/A,13.61,-0.49,149.0233,.41071 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,Blk_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P12_B_001,31189,149.02333,N/A,11.58,-0.39,149.0233,.20593 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P12_D1_001,78496,149.02336,N/A,11.76,-0.21,149.0233,.41071 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P12_D2_001,311366,149.02335,N/A,11.75,-0.22,149.0233,.30832 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P12_D3_001,76742,149.0233,N/A,11.75,-0.22,149.0233,.00115 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P14_B_001,76069,149.02336,N/A,11.76,-0.21,149.0233,.41071 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P14_D1_001,127918,149.02338,N/A,12.1,0.13,149.0233,.51311 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P14_D2_001,145012,149.02339,N/A,11.76,-0.21,149.0233,.61550 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P14_D3_001,176217,149.02338,N/A,11.76,-0.21,149.0233,.51311 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P14_D3_002,166049,149.02339,N/A,11.76,-0.21,149.0233,.61550 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P15_B_001,8610,149.02333,N/A,12.04,0.07,149.0233,.20593 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P15_D1_001,73109,149.02335,N/A,11.95,-0.02,149.0233,.30832 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P15_D2_001,8777,149.02335,N/A,11.95,-0.02,149.0233,.30832 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P15_D3_001,2396860,149.02333,N/A,11.95,-0.02,149.0233,.20593 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P16_B_001,7360918,149.0233,N/A,11.95,-0.02,149.0233,.00115 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P16_D1_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P16_D2_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,P16_D3_001,24640,149.02336,N/A,11.76,-0.21,149.0233,.41071 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,QCB_001,1059295,149.02335,N/A,11.95,-0.02,149.0233,.30832 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,QCP_001,150208,149.02335,N/A,11.95,-0.02,149.0233,.30832 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,SolventBlank_001,641,149.02351,N/A,12.07,0.10,149.0233,1.43463 (ppm)
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,SolventBlank_002,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Bis(2-ethoxyethyl) phthalate (DEEP),11.97,Spk2_001,3693,149.02325,N/A,11.96,-0.01,149.0233,-.30603 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,Blk_001,84338,149.02342,17480438,14.65,-0.05,<multiple>,1.49132 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P12_B_001,79806570,149.02319,41536369,14.63,-0.07,<multiple>,-.04456 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P12_D1_001,141336946,149.02321,39217719,14.63,-0.07,<multiple>,.05783 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P12_D2_001,15546891,149.02332,38923782,14.63,-0.07,<multiple>,.77458 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P12_D3_001,121726061,149.02319,43800400,14.63,-0.07,<multiple>,-.04456 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P14_B_001,6773759,149.02333,38869530,14.63,-0.07,<multiple>,.87697 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P14_D1_001,14966738,149.02332,39312935,14.64,-0.06,<multiple>,.77458 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P14_D2_001,104433144,149.02319,32902200,14.63,-0.07,<multiple>,-.04456 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P14_D3_001,53360067,149.02324,35476817,14.64,-0.06,<multiple>,.26262 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P14_D3_002,49028779,149.02322,33369590,14.63,-0.07,<multiple>,.16022 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P15_B_001,19622867,149.02327,31544020,14.63,-0.07,<multiple>,.46740 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P15_D1_001,272963494,149.02315,31879862,14.63,-0.07,<multiple>,-.35174 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P15_D2_001,18378077,149.02327,28447660,14.63,-0.07,<multiple>,.46740 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P15_D3_001,15361758921,149.02316,33204869,14.67,-0.03,<multiple>,-.24935 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P16_B_001,34304167578,149.02318,30294614,14.7,0.00,<multiple>,-.14695 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P16_D1_001,157826750,149.02318,35263826,14.63,-0.07,<multiple>,-.14695 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P16_D2_001,N/F,N/F,235,N/F,N/F,<multiple>,N/F
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,P16_D3_001,17671485,149.02333,27683422,14.63,-0.07,<multiple>,.87697 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,QCB_001,12103604899,149.02316,39860953,14.66,-0.04,<multiple>,-.24935 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,QCP_001,2380233590,149.02313,34127669,14.64,-0.06,<multiple>,-.45413 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,SolventBlank_001,701,N/A,49044,14.72,0.02,<multiple>,N/A
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,SolventBlank_002,231,149.02394,6221,14.78,0.08,<multiple>,4.97265 (ppm)
+Bis(2-ethylhexyl) phthalate - DEHP,14.7,Spk2_001,523502,149.02338,18145852,14.64,-0.06,<multiple>,1.18414 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,Blk_001,6829220,149.02328,N/A,10.83,0.00,149.0233,-.10125 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P12_B_001,24493149,149.02328,N/A,10.81,-0.02,149.0233,-.10125 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P12_D1_001,58045061,149.02327,N/A,10.81,-0.02,149.0233,-.20364 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P12_D2_001,33979666,149.02327,N/A,10.81,-0.02,149.0233,-.20364 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P12_D3_001,45496677,149.02328,N/A,10.81,-0.02,149.0233,-.10125 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P14_B_001,36780789,149.0233,N/A,10.82,-0.01,149.0233,.00115 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P14_D1_001,32487838,149.02328,N/A,10.81,-0.02,149.0233,-.10125 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P14_D2_001,66079812,149.02324,N/A,10.82,-0.01,149.0233,-.40842 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P14_D3_001,54710839,149.02324,N/A,10.81,-0.02,149.0233,-.40842 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P14_D3_002,48506902,149.02324,N/A,10.81,-0.02,149.0233,-.40842 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P15_B_001,17361343,149.02332,N/A,10.82,-0.01,149.0233,.10354 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P15_D1_001,15222048,149.0233,N/A,10.81,-0.02,149.0233,.00115 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P15_D2_001,12109634,149.0233,N/A,10.82,-0.01,149.0233,.00115 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P15_D3_001,20455934,149.02327,N/A,10.81,-0.02,149.0233,-.20364 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P16_B_001,60909259,149.02325,N/A,10.81,-0.02,149.0233,-.30603 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P16_D1_001,12600756,149.02332,N/A,10.81,-0.02,149.0233,.10354 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P16_D2_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,P16_D3_001,20038316,149.02327,N/A,10.81,-0.02,149.0233,-.20364 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,QCB_001,28505925,149.02325,N/A,10.81,-0.02,149.0233,-.30603 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,QCP_001,28693037,149.02327,N/A,10.82,-0.01,149.0233,-.20364 (ppm)
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,SolventBlank_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,SolventBlank_002,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Bis(2-methoxyethyl) phthalate (DMEP),10.83,Spk2_001,7274317,149.02325,N/A,10.82,-0.01,149.0233,-.30603 (ppm)
+Diethyl phthalate - DEP,8.4,Blk_001,7321,N/A,17480438,8.45,0.05,<multiple>,N/A
+Diethyl phthalate - DEP,8.4,P12_B_001,12898,149.02324,41536369,8.41,0.01,<multiple>,-.40842 (ppm)
+Diethyl phthalate - DEP,8.4,P12_D1_001,14601,149.02336,39217719,8.43,0.03,<multiple>,.41071 (ppm)
+Diethyl phthalate - DEP,8.4,P12_D2_001,N/F,N/F,38923782,N/F,N/F,<multiple>,N/F
+Diethyl phthalate - DEP,8.4,P12_D3_001,10835,149.02332,43800400,8.41,0.01,<multiple>,.10354 (ppm)
+Diethyl phthalate - DEP,8.4,P14_B_001,N/F,N/F,38869530,N/F,N/F,<multiple>,N/F
+Diethyl phthalate - DEP,8.4,P14_D1_001,5355,149.02351,39312935,8.41,0.01,<multiple>,1.43463 (ppm)
+Diethyl phthalate - DEP,8.4,P14_D2_001,25482,149.02339,32902200,8.42,0.02,<multiple>,.61550 (ppm)
+Diethyl phthalate - DEP,8.4,P14_D3_001,13350,149.02328,35476817,8.42,0.02,<multiple>,-.10125 (ppm)
+Diethyl phthalate - DEP,8.4,P14_D3_002,N/F,N/F,33369590,N/F,N/F,<multiple>,N/F
+Diethyl phthalate - DEP,8.4,P15_B_001,N/F,N/F,31544020,N/F,N/F,<multiple>,N/F
+Diethyl phthalate - DEP,8.4,P15_D1_001,2722,N/A,31879862,8.42,0.02,<multiple>,N/A
+Diethyl phthalate - DEP,8.4,P15_D2_001,N/F,N/F,28447660,N/F,N/F,<multiple>,N/F
+Diethyl phthalate - DEP,8.4,P15_D3_001,N/F,N/F,33204869,N/F,N/F,<multiple>,N/F
+Diethyl phthalate - DEP,8.4,P16_B_001,52549,149.02336,30294614,8.42,0.02,<multiple>,.41071 (ppm)
+Diethyl phthalate - DEP,8.4,P16_D1_001,N/F,N/F,35263826,N/F,N/F,<multiple>,N/F
+Diethyl phthalate - DEP,8.4,P16_D2_001,N/F,N/F,235,N/F,N/F,<multiple>,N/F
+Diethyl phthalate - DEP,8.4,P16_D3_001,N/F,N/F,27683422,N/F,N/F,<multiple>,N/F
+Diethyl phthalate - DEP,8.4,QCB_001,N/F,N/F,39860953,N/F,N/F,<multiple>,N/F
+Diethyl phthalate - DEP,8.4,QCP_001,N/F,N/F,34127669,N/F,N/F,<multiple>,N/F
+Diethyl phthalate - DEP,8.4,SolventBlank_001,N/F,N/F,49044,N/F,N/F,<multiple>,N/F
+Diethyl phthalate - DEP,8.4,SolventBlank_002,384,149.02345,6221,8.43,0.03,<multiple>,1.02507 (ppm)
+Diethyl phthalate - DEP,8.4,Spk2_001,2281,149.02333,18145852,8.44,0.04,<multiple>,.20593 (ppm)
+Diethyl phthalate-d4,8.86,Blk_001,N/F,N/F,17480438,N/F,N/F,153.0484,N/F
+Diethyl phthalate-d4,8.86,P12_B_001,63216,153.04845,41536369,8.39,-0.47,153.0484,.30484 (ppm)
+Diethyl phthalate-d4,8.86,P12_D1_001,53504,153.04846,39217719,8.39,-0.47,153.0484,.40454 (ppm)
+Diethyl phthalate-d4,8.86,P12_D2_001,45373,153.04852,38923782,8.39,-0.47,153.0484,.80334 (ppm)
+Diethyl phthalate-d4,8.86,P12_D3_001,56956,153.04848,43800400,8.39,-0.47,153.0484,.50424 (ppm)
+Diethyl phthalate-d4,8.86,P14_B_001,17297,N/A,38869530,8.89,0.03,153.0484,N/A
+Diethyl phthalate-d4,8.86,P14_D1_001,32360,153.04846,39312935,8.4,-0.46,153.0484,.40454 (ppm)
+Diethyl phthalate-d4,8.86,P14_D2_001,17761,153.04851,32902200,8.4,-0.46,153.0484,.70364 (ppm)
+Diethyl phthalate-d4,8.86,P14_D3_001,12404,N/A,35476817,8.4,-0.46,153.0484,N/A
+Diethyl phthalate-d4,8.86,P14_D3_002,8764,153.04839,33369590,9.08,0.22,153.0484,-.09396 (ppm)
+Diethyl phthalate-d4,8.86,P15_B_001,26420,153.04851,31544020,8.41,-0.45,153.0484,.70364 (ppm)
+Diethyl phthalate-d4,8.86,P15_D1_001,18968,153.04846,31879862,8.41,-0.45,153.0484,.40454 (ppm)
+Diethyl phthalate-d4,8.86,P15_D2_001,13358,153.04837,28447660,8.41,-0.45,153.0484,-.19366 (ppm)
+Diethyl phthalate-d4,8.86,P15_D3_001,36688,153.04845,33204869,8.39,-0.47,153.0484,.30484 (ppm)
+Diethyl phthalate-d4,8.86,P16_B_001,46431,153.04848,30294614,8.39,-0.47,153.0484,.50424 (ppm)
+Diethyl phthalate-d4,8.86,P16_D1_001,9807,153.04871,35263826,8.4,-0.46,153.0484,1.99972 (ppm)
+Diethyl phthalate-d4,8.86,P16_D2_001,N/F,N/F,235,N/F,N/F,153.0484,N/F
+Diethyl phthalate-d4,8.86,P16_D3_001,19984,153.04846,27683422,8.41,-0.45,153.0484,.40454 (ppm)
+Diethyl phthalate-d4,8.86,QCB_001,38217,153.04852,39860953,8.39,-0.47,153.0484,.80334 (ppm)
+Diethyl phthalate-d4,8.86,QCP_001,24078,153.04843,34127669,8.4,-0.46,153.0484,.20514 (ppm)
+Diethyl phthalate-d4,8.86,SolventBlank_001,N/F,N/F,49044,N/F,N/F,153.0484,N/F
+Diethyl phthalate-d4,8.86,SolventBlank_002,N/F,N/F,6221,N/F,N/F,153.0484,N/F
+Diethyl phthalate-d4,8.86,Spk2_001,3895,153.04842,18145852,8.41,-0.45,153.0484,.10544 (ppm)
+Diisobutyl phthalate - DIBP,9.96,Blk_001,3202758,149.02333,17480438,9.98,0.02,<multiple>,.20593 (ppm)
+Diisobutyl phthalate - DIBP,9.96,P12_B_001,10797288,149.02327,41536369,9.96,0.00,<multiple>,-.20364 (ppm)
+Diisobutyl phthalate - DIBP,9.96,P12_D1_001,19590148,149.02328,39217719,9.96,0.00,<multiple>,-.10125 (ppm)
+Diisobutyl phthalate - DIBP,9.96,P12_D2_001,12958883,149.02328,38923782,9.96,0.00,<multiple>,-.10125 (ppm)
+Diisobutyl phthalate - DIBP,9.96,P12_D3_001,17843663,149.02327,43800400,9.96,0.00,<multiple>,-.20364 (ppm)
+Diisobutyl phthalate - DIBP,9.96,P14_B_001,11104715,149.02322,38869530,9.96,0.00,<multiple>,-.51081 (ppm)
+Diisobutyl phthalate - DIBP,9.96,P14_D1_001,9872159,149.02332,39312935,9.96,0.00,<multiple>,.10354 (ppm)
+Diisobutyl phthalate - DIBP,9.96,P14_D2_001,24486026,149.02322,32902200,9.96,0.00,<multiple>,-.51081 (ppm)
+Diisobutyl phthalate - DIBP,9.96,P14_D3_001,19276803,149.02322,35476817,9.96,0.00,<multiple>,-.51081 (ppm)
+Diisobutyl phthalate - DIBP,9.96,P14_D3_002,17183754,149.02322,33369590,9.96,0.00,<multiple>,-.51081 (ppm)
+Diisobutyl phthalate - DIBP,9.96,P15_B_001,6109117,149.02324,31544020,9.97,0.01,<multiple>,-.40842 (ppm)
+Diisobutyl phthalate - DIBP,9.96,P15_D1_001,5464185,149.02324,31879862,9.96,0.00,<multiple>,-.40842 (ppm)
+Diisobutyl phthalate - DIBP,9.96,P15_D2_001,4228921,149.02325,28447660,9.96,0.00,<multiple>,-.30603 (ppm)
+Diisobutyl phthalate - DIBP,9.96,P15_D3_001,8163139,149.02322,33204869,9.95,-0.01,<multiple>,-.51081 (ppm)
+Diisobutyl phthalate - DIBP,9.96,P16_B_001,22034858,149.02325,30294614,9.96,0.00,<multiple>,-.30603 (ppm)
+Diisobutyl phthalate - DIBP,9.96,P16_D1_001,4698522,149.02332,35263826,9.96,0.00,<multiple>,.10354 (ppm)
+Diisobutyl phthalate - DIBP,9.96,P16_D2_001,N/F,N/F,235,N/F,N/F,<multiple>,N/F
+Diisobutyl phthalate - DIBP,9.96,P16_D3_001,6640595,149.02328,27683422,9.96,0.00,<multiple>,-.10125 (ppm)
+Diisobutyl phthalate - DIBP,9.96,QCB_001,8110244,149.02324,39860953,9.96,0.00,<multiple>,-.40842 (ppm)
+Diisobutyl phthalate - DIBP,9.96,QCP_001,8890340,149.02327,34127669,9.96,0.00,<multiple>,-.20364 (ppm)
+Diisobutyl phthalate - DIBP,9.96,SolventBlank_001,N/F,N/F,49044,N/F,N/F,<multiple>,N/F
+Diisobutyl phthalate - DIBP,9.96,SolventBlank_002,1278,149.02322,6221,10.07,0.11,<multiple>,-.51081 (ppm)
+Diisobutyl phthalate - DIBP,9.96,Spk2_001,2356064,149.0233,18145852,9.97,0.01,<multiple>,.00115 (ppm)
+Diisodecyl phthalate - DIDP,19.4,Blk_001,N/F,N/F,17480438,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,P12_B_001,N/F,N/F,41536369,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,P12_D1_001,N/F,N/F,39217719,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,P12_D2_001,4246,307.19009,38923782,17.53,-1.87,<multiple>,-.99614 (ppm)
+Diisodecyl phthalate - DIDP,19.4,P12_D3_001,N/F,N/F,43800400,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,P14_B_001,N/F,N/F,38869530,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,P14_D1_001,N/F,N/F,39312935,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,P14_D2_001,N/F,N/F,32902200,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,P14_D3_001,N/F,N/F,35476817,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,P14_D3_002,N/F,N/F,33369590,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,P15_B_001,N/F,N/F,31544020,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,P15_D1_001,N/F,N/F,31879862,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,P15_D2_001,N/F,N/F,28447660,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,P15_D3_001,N/F,N/F,33204869,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,P16_B_001,N/F,N/F,30294614,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,P16_D1_001,N/F,N/F,35263826,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,P16_D2_001,N/F,N/F,235,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,P16_D3_001,N/F,N/F,27683422,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,QCB_001,N/F,N/F,39860953,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,QCP_001,N/F,N/F,34127669,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,SolventBlank_001,N/F,N/F,49044,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,SolventBlank_002,N/F,N/F,6221,N/F,N/F,<multiple>,N/F
+Diisodecyl phthalate - DIDP,19.4,Spk2_001,N/F,N/F,18145852,N/F,N/F,<multiple>,N/F
+Diisononyl phthalate - DINP,16.5,Blk_001,N/F,N/F,17480438,N/F,N/F,<multiple>,N/F
+Diisononyl phthalate - DINP,16.5,P12_B_001,2200,N/A,41536369,16.33,-0.17,<multiple>,N/A
+Diisononyl phthalate - DINP,16.5,P12_D1_001,3843,293.17493,39217719,16.47,-0.03,<multiple>,.77346 (ppm)
+Diisononyl phthalate - DINP,16.5,P12_D2_001,349832,293.17493,38923782,16.07,-0.43,<multiple>,.77346 (ppm)
+Diisononyl phthalate - DINP,16.5,P12_D3_001,2140,293.1748,43800400,16.62,0.12,<multiple>,.35708 (ppm)
+Diisononyl phthalate - DINP,16.5,P14_B_001,5583,293.17429,38869530,16.06,-0.44,<multiple>,-1.41251 (ppm)
+Diisononyl phthalate - DINP,16.5,P14_D1_001,10579,293.17532,39312935,16.25,-0.25,<multiple>,2.12667 (ppm)
+Diisononyl phthalate - DINP,16.5,P14_D2_001,1803329,293.17459,32902200,16.07,-0.43,<multiple>,-.37157 (ppm)
+Diisononyl phthalate - DINP,16.5,P14_D3_001,5227,293.17517,35476817,16.26,-0.24,<multiple>,1.60620 (ppm)
+Diisononyl phthalate - DINP,16.5,P14_D3_002,20679,293.17441,33369590,16.14,-0.36,<multiple>,-.99613 (ppm)
+Diisononyl phthalate - DINP,16.5,P15_B_001,3276,N/A,31544020,16.26,-0.24,<multiple>,N/A
+Diisononyl phthalate - DINP,16.5,P15_D1_001,2316,293.17456,31879862,16.46,-0.04,<multiple>,-.47567 (ppm)
+Diisononyl phthalate - DINP,16.5,P15_D2_001,984,293.17395,28447660,16.48,-0.02,<multiple>,-2.55754 (ppm)
+Diisononyl phthalate - DINP,16.5,P15_D3_001,878459797,293.17465,33204869,16.08,-0.42,<multiple>,-.16339 (ppm)
+Diisononyl phthalate - DINP,16.5,P16_B_001,2650008581,293.17462,30294614,16.23,-0.27,<multiple>,-.26748 (ppm)
+Diisononyl phthalate - DINP,16.5,P16_D1_001,1455,293.17444,35263826,16.97,0.47,<multiple>,-.89204 (ppm)
+Diisononyl phthalate - DINP,16.5,P16_D2_001,N/F,N/F,235,N/F,N/F,<multiple>,N/F
+Diisononyl phthalate - DINP,16.5,P16_D3_001,10229,293.17493,27683422,16.25,-0.25,<multiple>,.77346 (ppm)
+Diisononyl phthalate - DINP,16.5,QCB_001,617833058,293.17468,39860953,16.08,-0.42,<multiple>,-.05929 (ppm)
+Diisononyl phthalate - DINP,16.5,QCP_001,61119257,293.17471,34127669,16.08,-0.42,<multiple>,.04480 (ppm)
+Diisononyl phthalate - DINP,16.5,SolventBlank_001,N/F,N/F,49044,N/F,N/F,<multiple>,N/F
+Diisononyl phthalate - DINP,16.5,SolventBlank_002,N/F,N/F,6221,N/F,N/F,<multiple>,N/F
+Diisononyl phthalate - DINP,16.5,Spk2_001,1068,N/A,18145852,16.2,-0.30,<multiple>,N/A
+Dimethyl phthalate,4.35,Blk_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,P12_B_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,P12_D1_001,1547,149.02336,N/A,4.8,0.45,149.0233,.41071 (ppm)
+Dimethyl phthalate,4.35,P12_D2_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,P12_D3_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,P14_B_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,P14_D1_001,3531,149.02345,N/A,4.81,0.46,149.0233,1.02507 (ppm)
+Dimethyl phthalate,4.35,P14_D2_001,1366,149.02347,N/A,4.81,0.46,149.0233,1.12746 (ppm)
+Dimethyl phthalate,4.35,P14_D3_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,P14_D3_002,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,P15_B_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,P15_D1_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,P15_D2_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,P15_D3_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,P16_B_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,P16_D1_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,P16_D2_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,P16_D3_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,QCB_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,QCP_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,SolventBlank_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,SolventBlank_002,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Dimethyl phthalate,4.35,Spk2_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Di-n-butyl phthalate - d4,10.79,Blk_001,212,153.04837,17480438,10.81,0.02,153.0484,-.19366 (ppm)
+Di-n-butyl phthalate - d4,10.79,P12_B_001,136939664,153.04823,41536369,10.8,0.01,153.0484,-1.09095 (ppm)
+Di-n-butyl phthalate - d4,10.79,P12_D1_001,180270110,153.04823,39217719,10.8,0.01,153.0484,-1.09095 (ppm)
+Di-n-butyl phthalate - d4,10.79,P12_D2_001,160753226,153.04819,38923782,10.79,0.00,153.0484,-1.39004 (ppm)
+Di-n-butyl phthalate - d4,10.79,P12_D3_001,167334581,153.04826,43800400,10.8,0.01,153.0484,-.89155 (ppm)
+Di-n-butyl phthalate - d4,10.79,P14_B_001,91881970,153.04832,38869530,10.8,0.01,153.0484,-.49275 (ppm)
+Di-n-butyl phthalate - d4,10.79,P14_D1_001,141463082,153.04825,39312935,10.8,0.01,153.0484,-.99125 (ppm)
+Di-n-butyl phthalate - d4,10.79,P14_D2_001,134946020,153.04823,32902200,10.8,0.01,153.0484,-1.09095 (ppm)
+Di-n-butyl phthalate - d4,10.79,P14_D3_001,115258580,153.04825,35476817,10.8,0.01,153.0484,-.99125 (ppm)
+Di-n-butyl phthalate - d4,10.79,P14_D3_002,102512575,153.04822,33369590,10.79,0.00,153.0484,-1.19065 (ppm)
+Di-n-butyl phthalate - d4,10.79,P15_B_001,133911992,153.04819,31544020,10.8,0.01,153.0484,-1.39004 (ppm)
+Di-n-butyl phthalate - d4,10.79,P15_D1_001,111993731,153.0482,31879862,10.8,0.01,153.0484,-1.29035 (ppm)
+Di-n-butyl phthalate - d4,10.79,P15_D2_001,93948553,153.0482,28447660,10.8,0.01,153.0484,-1.29035 (ppm)
+Di-n-butyl phthalate - d4,10.79,P15_D3_001,124885935,153.04819,33204869,10.79,0.00,153.0484,-1.39004 (ppm)
+Di-n-butyl phthalate - d4,10.79,P16_B_001,154581329,153.04823,30294614,10.8,0.01,153.0484,-1.09095 (ppm)
+Di-n-butyl phthalate - d4,10.79,P16_D1_001,87217114,153.0482,35263826,10.8,0.01,153.0484,-1.29035 (ppm)
+Di-n-butyl phthalate - d4,10.79,P16_D2_001,N/F,N/F,235,N/F,N/F,153.0484,N/F
+Di-n-butyl phthalate - d4,10.79,P16_D3_001,78661498,153.0482,27683422,10.8,0.01,153.0484,-1.29035 (ppm)
+Di-n-butyl phthalate - d4,10.79,QCB_001,110936384,153.04822,39860953,10.8,0.01,153.0484,-1.19065 (ppm)
+Di-n-butyl phthalate - d4,10.79,QCP_001,113380109,153.04823,34127669,10.8,0.01,153.0484,-1.09095 (ppm)
+Di-n-butyl phthalate - d4,10.79,SolventBlank_001,N/F,N/F,49044,N/F,N/F,153.0484,N/F
+Di-n-butyl phthalate - d4,10.79,SolventBlank_002,N/F,N/F,6221,N/F,N/F,153.0484,N/F
+Di-n-butyl phthalate - d4,10.79,Spk2_001,14680872,153.04823,18145852,10.81,0.02,153.0484,-1.09095 (ppm)
+Di-n-butyl phthalate - DBP,10.79,Blk_001,8207589,149.02328,17480438,10.83,0.04,<multiple>,-.10125 (ppm)
+Di-n-butyl phthalate - DBP,10.79,P12_B_001,24435451,149.02328,41536369,10.81,0.02,<multiple>,-.10125 (ppm)
+Di-n-butyl phthalate - DBP,10.79,P12_D1_001,57848031,149.02327,39217719,10.81,0.02,<multiple>,-.20364 (ppm)
+Di-n-butyl phthalate - DBP,10.79,P12_D2_001,33906654,149.02327,38923782,10.81,0.02,<multiple>,-.20364 (ppm)
+Di-n-butyl phthalate - DBP,10.79,P12_D3_001,45268448,149.02328,43800400,10.81,0.02,<multiple>,-.10125 (ppm)
+Di-n-butyl phthalate - DBP,10.79,P14_B_001,36714000,149.0233,38869530,10.82,0.03,<multiple>,.00115 (ppm)
+Di-n-butyl phthalate - DBP,10.79,P14_D1_001,32285527,149.02328,39312935,10.81,0.02,<multiple>,-.10125 (ppm)
+Di-n-butyl phthalate - DBP,10.79,P14_D2_001,65884235,149.02324,32902200,10.82,0.03,<multiple>,-.40842 (ppm)
+Di-n-butyl phthalate - DBP,10.79,P14_D3_001,54508710,149.02324,35476817,10.81,0.02,<multiple>,-.40842 (ppm)
+Di-n-butyl phthalate - DBP,10.79,P14_D3_002,48365979,149.02324,33369590,10.81,0.02,<multiple>,-.40842 (ppm)
+Di-n-butyl phthalate - DBP,10.79,P15_B_001,17312181,149.02332,31544020,10.82,0.03,<multiple>,.10354 (ppm)
+Di-n-butyl phthalate - DBP,10.79,P15_D1_001,15141257,149.0233,31879862,10.81,0.02,<multiple>,.00115 (ppm)
+Di-n-butyl phthalate - DBP,10.79,P15_D2_001,12052656,149.0233,28447660,10.82,0.03,<multiple>,.00115 (ppm)
+Di-n-butyl phthalate - DBP,10.79,P15_D3_001,20418135,149.02327,33204869,10.81,0.02,<multiple>,-.20364 (ppm)
+Di-n-butyl phthalate - DBP,10.79,P16_B_001,60646990,149.02325,30294614,10.81,0.02,<multiple>,-.30603 (ppm)
+Di-n-butyl phthalate - DBP,10.79,P16_D1_001,12708707,149.02332,35263826,10.81,0.02,<multiple>,.10354 (ppm)
+Di-n-butyl phthalate - DBP,10.79,P16_D2_001,N/F,N/F,235,N/F,N/F,<multiple>,N/F
+Di-n-butyl phthalate - DBP,10.79,P16_D3_001,19989708,149.02327,27683422,10.81,0.02,<multiple>,-.20364 (ppm)
+Di-n-butyl phthalate - DBP,10.79,QCB_001,28728802,149.02325,39860953,10.81,0.02,<multiple>,-.30603 (ppm)
+Di-n-butyl phthalate - DBP,10.79,QCP_001,28688700,149.02327,34127669,10.82,0.03,<multiple>,-.20364 (ppm)
+Di-n-butyl phthalate - DBP,10.79,SolventBlank_001,N/F,N/F,49044,N/F,N/F,<multiple>,N/F
+Di-n-butyl phthalate - DBP,10.79,SolventBlank_002,651,149.02321,6221,10.99,0.20,<multiple>,-.61321 (ppm)
+Di-n-butyl phthalate - DBP,10.79,Spk2_001,7339336,149.02325,18145852,10.82,0.03,<multiple>,-.30603 (ppm)
+Di-n-hexyl phthalate,13.08,Blk_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Di-n-hexyl phthalate,13.08,P12_B_001,25636,149.02335,N/A,12.97,-0.11,149.0233,.30832 (ppm)
+Di-n-hexyl phthalate,13.08,P12_D1_001,92006,149.02338,N/A,12.97,-0.11,149.0233,.51311 (ppm)
+Di-n-hexyl phthalate,13.08,P12_D2_001,70840,149.02332,N/A,12.96,-0.12,149.0233,.10354 (ppm)
+Di-n-hexyl phthalate,13.08,P12_D3_001,70626,149.02333,N/A,12.98,-0.10,149.0233,.20593 (ppm)
+Di-n-hexyl phthalate,13.08,P14_B_001,13836,149.02332,N/A,12.98,-0.10,149.0233,.10354 (ppm)
+Di-n-hexyl phthalate,13.08,P14_D1_001,129263,149.02341,N/A,12.95,-0.13,149.0233,.71789 (ppm)
+Di-n-hexyl phthalate,13.08,P14_D2_001,63194,149.0233,N/A,12.97,-0.11,149.0233,.00115 (ppm)
+Di-n-hexyl phthalate,13.08,P14_D3_001,58949,149.02342,N/A,12.98,-0.10,149.0233,.82028 (ppm)
+Di-n-hexyl phthalate,13.08,P14_D3_002,65321,149.02332,N/A,12.97,-0.11,149.0233,.10354 (ppm)
+Di-n-hexyl phthalate,13.08,P15_B_001,19337,149.02328,N/A,13.22,0.14,149.0233,-.10125 (ppm)
+Di-n-hexyl phthalate,13.08,P15_D1_001,45040,149.0233,N/A,12.98,-0.10,149.0233,.00115 (ppm)
+Di-n-hexyl phthalate,13.08,P15_D2_001,9251,149.02332,N/A,12.98,-0.10,149.0233,.10354 (ppm)
+Di-n-hexyl phthalate,13.08,P15_D3_001,566983,149.02335,N/A,12.76,-0.32,149.0233,.30832 (ppm)
+Di-n-hexyl phthalate,13.08,P16_B_001,1430037,149.02336,N/A,12.97,-0.11,149.0233,.41071 (ppm)
+Di-n-hexyl phthalate,13.08,P16_D1_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Di-n-hexyl phthalate,13.08,P16_D2_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Di-n-hexyl phthalate,13.08,P16_D3_001,10835,149.02335,N/A,12.98,-0.10,149.0233,.30832 (ppm)
+Di-n-hexyl phthalate,13.08,QCB_001,295319,149.02333,N/A,12.77,-0.31,149.0233,.20593 (ppm)
+Di-n-hexyl phthalate,13.08,QCP_001,50011,149.02336,N/A,12.98,-0.10,149.0233,.41071 (ppm)
+Di-n-hexyl phthalate,13.08,SolventBlank_001,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Di-n-hexyl phthalate,13.08,SolventBlank_002,N/F,N/F,N/A,N/F,N/F,149.0233,N/F
+Di-n-hexyl phthalate,13.08,Spk2_001,1401,149.02332,N/A,12.98,-0.10,149.0233,.10354 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,Blk_001,6670,N/A,17480438,15.73,0.01,<multiple>,N/A
+Di-n-octyl phthalate - DnOP,15.72,P12_B_001,4479282,149.02335,41536369,15.72,0.00,<multiple>,.30832 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,P12_D1_001,39026919,149.02333,39217719,15.72,0.00,<multiple>,.20593 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,P12_D2_001,16203228,149.02335,38923782,15.72,0.00,<multiple>,.30832 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,P12_D3_001,39137229,149.02335,43800400,15.72,0.00,<multiple>,.30832 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,P14_B_001,2505057,149.02338,38869530,15.72,0.00,<multiple>,.51311 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,P14_D1_001,5413155,149.02338,39312935,15.72,0.00,<multiple>,.51311 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,P14_D2_001,74684211,149.02335,32902200,16.07,0.35,<multiple>,.30832 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,P14_D3_001,21870204,149.02336,35476817,15.72,0.00,<multiple>,.41071 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,P14_D3_002,20023104,149.02336,33369590,15.72,0.00,<multiple>,.41071 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,P15_B_001,7684207,149.02338,31544020,15.73,0.01,<multiple>,.51311 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,P15_D1_001,26012518,149.02332,31879862,15.72,0.00,<multiple>,.10354 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,P15_D2_001,5481761,149.02335,28447660,15.72,0.00,<multiple>,.30832 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,P15_D3_001,25642704465,149.02316,33204869,16.21,0.49,<multiple>,-.92038 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,P16_B_001,N/F,N/F,30294614,N/F,N/F,<multiple>,N/F
+Di-n-octyl phthalate - DnOP,15.72,P16_D1_001,67262598,149.02342,35263826,15.72,0.00,<multiple>,.82028 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,P16_D2_001,N/F,N/F,235,N/F,N/F,<multiple>,N/F
+Di-n-octyl phthalate - DnOP,15.72,P16_D3_001,6214504,149.02342,27683422,15.72,0.00,<multiple>,.82028 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,QCB_001,16828118177,149.02313,39860953,16.08,0.36,<multiple>,-1.12516 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,QCP_001,1826676445,149.0233,34127669,16.08,0.36,<multiple>,.00115 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,SolventBlank_001,438,149.02342,49044,15.8,0.08,<multiple>,.82028 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,SolventBlank_002,346,149.02353,6221,15.38,-0.34,<multiple>,1.53703 (ppm)
+Di-n-octyl phthalate - DnOP,15.72,Spk2_001,946007,149.02345,18145852,16.08,0.36,<multiple>,1.02507 (ppm)
+FBDE 100,15.25,Blk_001,N/F,N/F,3968217,N/F,N/F,<multiple>,N/F
+FBDE 100,15.25,P12_B_001,1720733,583.60919,6973854,15.72,0.47,<multiple>,-.18524 (ppm)
+FBDE 100,15.25,P12_D1_001,2830841,583.60913,6306157,15.72,0.47,<multiple>,-.28982 (ppm)
+FBDE 100,15.25,P12_D2_001,2175030,583.60931,5854375,15.72,0.47,<multiple>,.02393 (ppm)
+FBDE 100,15.25,P12_D3_001,2343786,583.60919,6321116,15.72,0.47,<multiple>,-.18524 (ppm)
+FBDE 100,15.25,P14_B_001,1356668,583.60938,5653277,15.73,0.48,<multiple>,.12851 (ppm)
+FBDE 100,15.25,P14_D1_001,1499865,583.60925,5548788,15.73,0.48,<multiple>,-.08065 (ppm)
+FBDE 100,15.25,P14_D2_001,1181994,583.60925,4391306,15.73,0.48,<multiple>,-.08065 (ppm)
+FBDE 100,15.25,P14_D3_001,1112486,583.60913,4577212,15.72,0.47,<multiple>,-.28982 (ppm)
+FBDE 100,15.25,P14_D3_002,855918,583.60925,3966503,15.73,0.48,<multiple>,-.08065 (ppm)
+FBDE 100,15.25,P15_B_001,1665890,583.60938,4199472,15.73,0.48,<multiple>,.12851 (ppm)
+FBDE 100,15.25,P15_D1_001,1590926,583.60925,4186286,15.72,0.47,<multiple>,-.08065 (ppm)
+FBDE 100,15.25,P15_D2_001,1009866,583.60931,3600742,15.73,0.48,<multiple>,.02393 (ppm)
+FBDE 100,15.25,P15_D3_001,2348322,583.60919,5081949,15.72,0.47,<multiple>,-.18524 (ppm)
+FBDE 100,15.25,P16_B_001,2479093,583.60925,5455441,15.73,0.48,<multiple>,-.08065 (ppm)
+FBDE 100,15.25,P16_D1_001,1226320,583.60944,4601497,15.73,0.48,<multiple>,.23309 (ppm)
+FBDE 100,15.25,P16_D2_001,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+FBDE 100,15.25,P16_D3_001,999462,583.60925,3687796,15.73,0.48,<multiple>,-.08065 (ppm)
+FBDE 100,15.25,QCB_001,2711066,583.60919,6299443,15.72,0.47,<multiple>,-.18524 (ppm)
+FBDE 100,15.25,QCP_001,1912215,583.60931,5292044,15.73,0.48,<multiple>,.02393 (ppm)
+FBDE 100,15.25,SolventBlank_001,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+FBDE 100,15.25,SolventBlank_002,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+FBDE 100,15.25,Spk2_001,547840,583.60944,2890028,15.73,0.48,<multiple>,.23309 (ppm)
+FBDE 100(2),15.26,Blk_001,N/F,N/F,N/A,N/F,N/F,421.77664,N/F
+FBDE 100(2),15.26,P12_B_001,3585336,421.77673,N/A,15.72,0.46,421.77664,.22144 (ppm)
+FBDE 100(2),15.26,P12_D1_001,5635022,421.77676,N/A,15.72,0.46,421.77664,.29380 (ppm)
+FBDE 100(2),15.26,P12_D2_001,4450830,421.77679,N/A,15.72,0.46,421.77664,.36615 (ppm)
+FBDE 100(2),15.26,P12_D3_001,4696647,421.77673,N/A,15.72,0.46,421.77664,.22144 (ppm)
+FBDE 100(2),15.26,P14_B_001,2852216,421.77682,N/A,15.73,0.47,421.77664,.43851 (ppm)
+FBDE 100(2),15.26,P14_D1_001,3032676,421.77682,N/A,15.73,0.47,421.77664,.43851 (ppm)
+FBDE 100(2),15.26,P14_D2_001,2507914,421.77686,N/A,15.73,0.47,421.77664,.51086 (ppm)
+FBDE 100(2),15.26,P14_D3_001,2212675,421.77682,N/A,15.72,0.46,421.77664,.43851 (ppm)
+FBDE 100(2),15.26,P14_D3_002,1890898,421.77679,N/A,15.73,0.47,421.77664,.36615 (ppm)
+FBDE 100(2),15.26,P15_B_001,3625544,421.77676,N/A,15.73,0.47,421.77664,.29380 (ppm)
+FBDE 100(2),15.26,P15_D1_001,3207004,421.77682,N/A,15.72,0.46,421.77664,.43851 (ppm)
+FBDE 100(2),15.26,P15_D2_001,2202537,421.77682,N/A,15.72,0.46,421.77664,.43851 (ppm)
+FBDE 100(2),15.26,P15_D3_001,4241376,421.77682,N/A,15.72,0.46,421.77664,.43851 (ppm)
+FBDE 100(2),15.26,P16_B_001,4103256,421.77689,N/A,15.73,0.47,421.77664,.58321 (ppm)
+FBDE 100(2),15.26,P16_D1_001,2459333,421.77698,N/A,15.73,0.47,421.77664,.80028 (ppm)
+FBDE 100(2),15.26,P16_D2_001,N/F,N/F,N/A,N/F,N/F,421.77664,N/F
+FBDE 100(2),15.26,P16_D3_001,2239893,421.77704,N/A,15.73,0.47,421.77664,.94499 (ppm)
+FBDE 100(2),15.26,QCB_001,4749926,421.77679,N/A,15.72,0.46,421.77664,.36615 (ppm)
+FBDE 100(2),15.26,QCP_001,3788503,421.77682,N/A,15.73,0.47,421.77664,.43851 (ppm)
+FBDE 100(2),15.26,SolventBlank_001,N/F,N/F,N/A,N/F,N/F,421.77664,N/F
+FBDE 100(2),15.26,SolventBlank_002,N/F,N/F,N/A,N/F,N/F,421.77664,N/F
+FBDE 100(2),15.26,Spk2_001,1165918,421.77692,N/A,15.73,0.47,421.77664,.65557 (ppm)
+FBDE 157,17.26,Blk_001,N/F,N/F,3968217,N/F,N/F,<multiple>,N/F
+FBDE 157,17.26,P12_B_001,610470,661.51965,6973854,17.26,0.00,<multiple>,-.67523 (ppm)
+FBDE 157,17.26,P12_D1_001,971504,661.51947,6306157,17.26,0.00,<multiple>,-.95203 (ppm)
+FBDE 157,17.26,P12_D2_001,815955,661.51959,5854375,17.26,0.00,<multiple>,-.76750 (ppm)
+FBDE 157,17.26,P12_D3_001,940479,661.51965,6321116,17.26,0.00,<multiple>,-.67523 (ppm)
+FBDE 157,17.26,P14_B_001,504946,661.51965,5653277,17.26,0.00,<multiple>,-.67523 (ppm)
+FBDE 157,17.26,P14_D1_001,566057,661.51978,5548788,17.26,0.00,<multiple>,-.49070 (ppm)
+FBDE 157,17.26,P14_D2_001,376960,661.51965,4391306,17.26,0.00,<multiple>,-.67523 (ppm)
+FBDE 157,17.26,P14_D3_001,360191,661.51947,4577212,17.26,0.00,<multiple>,-.95203 (ppm)
+FBDE 157,17.26,P14_D3_002,269431,661.51953,3966503,17.26,0.00,<multiple>,-.85976 (ppm)
+FBDE 157,17.26,P15_B_001,598338,661.51984,4199472,17.26,0.00,<multiple>,-.39844 (ppm)
+FBDE 157,17.26,P15_D1_001,548163,661.51947,4186286,17.26,0.00,<multiple>,-.95203 (ppm)
+FBDE 157,17.26,P15_D2_001,431006,661.51971,3600742,17.26,0.00,<multiple>,-.58297 (ppm)
+FBDE 157,17.26,P15_D3_001,676588,661.51959,5081949,17.26,0.00,<multiple>,-.76750 (ppm)
+FBDE 157,17.26,P16_B_001,752613,661.51959,5455441,17.27,0.01,<multiple>,-.76750 (ppm)
+FBDE 157,17.26,P16_D1_001,396359,661.51929,4601497,17.26,0.00,<multiple>,-1.22882 (ppm)
+FBDE 157,17.26,P16_D2_001,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+FBDE 157,17.26,P16_D3_001,365739,661.51971,3687796,17.26,0.00,<multiple>,-.58297 (ppm)
+FBDE 157,17.26,QCB_001,701981,661.51978,6299443,17.26,0.00,<multiple>,-.49070 (ppm)
+FBDE 157,17.26,QCP_001,654785,661.51959,5292044,17.26,0.00,<multiple>,-.76750 (ppm)
+FBDE 157,17.26,SolventBlank_001,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+FBDE 157,17.26,SolventBlank_002,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+FBDE 157,17.26,Spk2_001,261879,661.51984,2890028,17.27,0.01,<multiple>,-.39844 (ppm)
+FBDE 208,34.53,Blk_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P12_B_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P12_D1_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P12_D2_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P12_D3_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P14_B_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P14_D1_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P14_D2_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P14_D3_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P14_D3_002,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P15_B_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P15_D1_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P15_D2_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P15_D3_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P16_B_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P16_D1_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P16_D2_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,P16_D3_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,QCB_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,QCP_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,SolventBlank_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,SolventBlank_002,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+FBDE 208,34.53,Spk2_001,N/F,N/F,N/A,N/F,N/F,583.6109,N/F
+Fluoranthene-d10,11.84,Blk_001,17480438,212.14023,N/A,11.86,0.02,<multiple>,-1.28089 (ppm)
+Fluoranthene-d10,11.84,P12_B_001,41536369,212.14026,N/A,11.84,0.00,<multiple>,-1.13703 (ppm)
+Fluoranthene-d10,11.84,P12_D1_001,39217719,212.14034,N/A,11.85,0.01,<multiple>,-.77740 (ppm)
+Fluoranthene-d10,11.84,P12_D2_001,38923782,212.14024,N/A,11.84,0.00,<multiple>,-1.20896 (ppm)
+Fluoranthene-d10,11.84,P12_D3_001,43800400,212.14024,N/A,11.84,0.00,<multiple>,-1.20896 (ppm)
+Fluoranthene-d10,11.84,P14_B_001,38869530,212.1402,N/A,11.85,0.01,<multiple>,-1.42474 (ppm)
+Fluoranthene-d10,11.84,P14_D1_001,39312935,212.14044,N/A,11.85,0.01,<multiple>,-.27390 (ppm)
+Fluoranthene-d10,11.84,P14_D2_001,32902200,212.14037,N/A,11.85,0.01,<multiple>,-.63354 (ppm)
+Fluoranthene-d10,11.84,P14_D3_001,35476817,212.14037,N/A,11.85,0.01,<multiple>,-.63354 (ppm)
+Fluoranthene-d10,11.84,P14_D3_002,33369590,212.14034,N/A,11.84,0.00,<multiple>,-.77740 (ppm)
+Fluoranthene-d10,11.84,P15_B_001,31544020,212.1402,N/A,11.85,0.01,<multiple>,-1.42474 (ppm)
+Fluoranthene-d10,11.84,P15_D1_001,31879862,212.1402,N/A,11.85,0.01,<multiple>,-1.42474 (ppm)
+Fluoranthene-d10,11.84,P15_D2_001,28447660,212.14021,N/A,11.84,0.00,<multiple>,-1.35282 (ppm)
+Fluoranthene-d10,11.84,P15_D3_001,33204869,212.14027,N/A,11.84,0.00,<multiple>,-1.06511 (ppm)
+Fluoranthene-d10,11.84,P16_B_001,30294614,212.1403,N/A,11.85,0.01,<multiple>,-.92125 (ppm)
+Fluoranthene-d10,11.84,P16_D1_001,35263826,212.14024,N/A,11.84,0.00,<multiple>,-1.20896 (ppm)
+Fluoranthene-d10,11.84,P16_D2_001,235,212.14055,N/A,11.95,0.11,<multiple>,.22959 (ppm)
+Fluoranthene-d10,11.84,P16_D3_001,27683422,212.14023,N/A,11.84,0.00,<multiple>,-1.28089 (ppm)
+Fluoranthene-d10,11.84,QCB_001,39860953,212.1402,N/A,11.84,0.00,<multiple>,-1.42474 (ppm)
+Fluoranthene-d10,11.84,QCP_001,34127669,212.14026,N/A,11.85,0.01,<multiple>,-1.13703 (ppm)
+Fluoranthene-d10,11.84,SolventBlank_001,49044,212.14047,N/A,11.88,0.04,<multiple>,-.13005 (ppm)
+Fluoranthene-d10,11.84,SolventBlank_002,6221,212.14049,N/A,11.94,0.10,<multiple>,-.05812 (ppm)
+Fluoranthene-d10,11.84,Spk2_001,18145852,212.14023,N/A,11.85,0.01,<multiple>,-1.28089 (ppm)
+Hexabromobenzene-13C6,14.46,Blk_001,304,557.52582,3968217,14.1,-0.36,<multiple>,3.79871 (ppm)
+Hexabromobenzene-13C6,14.46,P12_B_001,1627917,557.52307,6973854,14.46,0.00,<multiple>,-1.12768 (ppm)
+Hexabromobenzene-13C6,14.46,P12_D1_001,1556552,557.52313,6306157,14.46,0.00,<multiple>,-1.01821 (ppm)
+Hexabromobenzene-13C6,14.46,P12_D2_001,335461,557.52325,5854375,14.46,0.00,<multiple>,-.79926 (ppm)
+Hexabromobenzene-13C6,14.46,P12_D3_001,2009104,557.52307,6321116,14.46,0.00,<multiple>,-1.12768 (ppm)
+Hexabromobenzene-13C6,14.46,P14_B_001,1430663,557.52325,5653277,14.46,0.00,<multiple>,-.79926 (ppm)
+Hexabromobenzene-13C6,14.46,P14_D1_001,1149200,557.52319,5548788,14.47,0.01,<multiple>,-.90873 (ppm)
+Hexabromobenzene-13C6,14.46,P14_D2_001,275919,557.52325,4391306,14.46,0.00,<multiple>,-.79926 (ppm)
+Hexabromobenzene-13C6,14.46,P14_D3_001,435916,557.52313,4577212,14.46,0.00,<multiple>,-1.01821 (ppm)
+Hexabromobenzene-13C6,14.46,P14_D3_002,322670,557.52313,3966503,14.46,0.00,<multiple>,-1.01821 (ppm)
+Hexabromobenzene-13C6,14.46,P15_B_001,1314412,557.52313,4199472,14.46,0.00,<multiple>,-1.01821 (ppm)
+Hexabromobenzene-13C6,14.46,P15_D1_001,1202455,557.52307,4186286,14.46,0.00,<multiple>,-1.12768 (ppm)
+Hexabromobenzene-13C6,14.46,P15_D2_001,848747,557.52325,3600742,14.46,0.00,<multiple>,-.79926 (ppm)
+Hexabromobenzene-13C6,14.46,P15_D3_001,1197061,557.52307,5081949,14.46,0.00,<multiple>,-1.12768 (ppm)
+Hexabromobenzene-13C6,14.46,P16_B_001,1561588,557.52319,5455441,14.46,0.00,<multiple>,-.90873 (ppm)
+Hexabromobenzene-13C6,14.46,P16_D1_001,674372,557.52313,4601497,14.46,0.00,<multiple>,-1.01821 (ppm)
+Hexabromobenzene-13C6,14.46,P16_D2_001,336,557.52545,N/F,14.08,-0.38,<multiple>,3.14186 (ppm)
+Hexabromobenzene-13C6,14.46,P16_D3_001,634104,557.52319,3687796,14.46,0.00,<multiple>,-.90873 (ppm)
+Hexabromobenzene-13C6,14.46,QCB_001,2307923,557.52319,6299443,14.46,0.00,<multiple>,-.90873 (ppm)
+Hexabromobenzene-13C6,14.46,QCP_001,1531394,557.52313,5292044,14.46,0.00,<multiple>,-1.01821 (ppm)
+Hexabromobenzene-13C6,14.46,SolventBlank_001,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+Hexabromobenzene-13C6,14.46,SolventBlank_002,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+Hexabromobenzene-13C6,14.46,Spk2_001,725968,557.52332,2890028,14.47,0.01,<multiple>,-.68978 (ppm)
+Mirex,15.19,Blk_001,3968217,271.80963,N/A,15.19,0.00,<multiple>,-1.35629 (ppm)
+Mirex,15.19,P12_B_001,6973854,271.80957,N/A,15.19,0.00,<multiple>,-1.58084 (ppm)
+Mirex,15.19,P12_D1_001,6306157,271.8096,N/A,15.19,0.00,<multiple>,-1.46856 (ppm)
+Mirex,15.19,P12_D2_001,5854375,271.8096,N/A,15.19,0.00,<multiple>,-1.46856 (ppm)
+Mirex,15.19,P12_D3_001,6321116,271.80957,N/A,15.19,0.00,<multiple>,-1.58084 (ppm)
+Mirex,15.19,P14_B_001,5653277,271.8096,N/A,15.19,0.00,<multiple>,-1.46856 (ppm)
+Mirex,15.19,P14_D1_001,5548788,271.8096,N/A,15.19,0.00,<multiple>,-1.46856 (ppm)
+Mirex,15.19,P14_D2_001,4391306,271.80963,N/A,15.19,0.00,<multiple>,-1.35629 (ppm)
+Mirex,15.19,P14_D3_001,4577212,271.80963,N/A,15.19,0.00,<multiple>,-1.35629 (ppm)
+Mirex,15.19,P14_D3_002,3966503,271.80963,N/A,15.19,0.00,<multiple>,-1.35629 (ppm)
+Mirex,15.19,P15_B_001,4199472,271.8096,N/A,15.2,0.01,<multiple>,-1.46856 (ppm)
+Mirex,15.19,P15_D1_001,4186286,271.8096,N/A,15.19,0.00,<multiple>,-1.46856 (ppm)
+Mirex,15.19,P15_D2_001,3600742,271.80963,N/A,15.19,0.00,<multiple>,-1.35629 (ppm)
+Mirex,15.19,P15_D3_001,5081949,271.8096,N/A,15.19,0.00,<multiple>,-1.46856 (ppm)
+Mirex,15.19,P16_B_001,5455441,271.8096,N/A,15.19,0.00,<multiple>,-1.46856 (ppm)
+Mirex,15.19,P16_D1_001,4601497,271.80957,N/A,15.19,0.00,<multiple>,-1.58084 (ppm)
+Mirex,15.19,P16_D2_001,N/F,N/F,N/A,N/F,N/F,<multiple>,N/F
+Mirex,15.19,P16_D3_001,3687796,271.8096,N/A,15.19,0.00,<multiple>,-1.46856 (ppm)
+Mirex,15.19,QCB_001,6299443,271.80957,N/A,15.19,0.00,<multiple>,-1.58084 (ppm)
+Mirex,15.19,QCP_001,5292044,271.8096,N/A,15.2,0.01,<multiple>,-1.46856 (ppm)
+Mirex,15.19,SolventBlank_001,N/F,N/F,N/A,N/F,N/F,<multiple>,N/F
+Mirex,15.19,SolventBlank_002,N/F,N/F,N/A,N/F,N/F,<multiple>,N/F
+Mirex,15.19,Spk2_001,2890028,271.8096,N/A,15.2,0.01,<multiple>,-1.46856 (ppm)
+Pentabromobenzene-13C6,11.99,Blk_001,N/F,N/F,N/A,N/F,N/F,477.6151,N/F
+Pentabromobenzene-13C6,11.99,P12_B_001,3317636,477.61472,N/A,12,0.01,477.6151,-.80488 (ppm)
+Pentabromobenzene-13C6,11.99,P12_D1_001,4142519,477.61475,N/A,12,0.01,477.6151,-.74099 (ppm)
+Pentabromobenzene-13C6,11.99,P12_D2_001,2776060,477.61478,N/A,12,0.01,477.6151,-.67709 (ppm)
+Pentabromobenzene-13C6,11.99,P12_D3_001,4463910,477.61472,N/A,12,0.01,477.6151,-.80488 (ppm)
+Pentabromobenzene-13C6,11.99,P14_B_001,1348129,477.61481,N/A,12,0.01,477.6151,-.61319 (ppm)
+Pentabromobenzene-13C6,11.99,P14_D1_001,2646368,477.61475,N/A,12,0.01,477.6151,-.74099 (ppm)
+Pentabromobenzene-13C6,11.99,P14_D2_001,1849044,477.61478,N/A,12,0.01,477.6151,-.67709 (ppm)
+Pentabromobenzene-13C6,11.99,P14_D3_001,1547396,477.61484,N/A,12,0.01,477.6151,-.54930 (ppm)
+Pentabromobenzene-13C6,11.99,P14_D3_002,1356399,477.61478,N/A,12,0.01,477.6151,-.67709 (ppm)
+Pentabromobenzene-13C6,11.99,P15_B_001,2913180,477.61459,N/A,12,0.01,477.6151,-1.06047 (ppm)
+Pentabromobenzene-13C6,11.99,P15_D1_001,2309878,477.61465,N/A,12,0.01,477.6151,-.93267 (ppm)
+Pentabromobenzene-13C6,11.99,P15_D2_001,1764389,477.61459,N/A,12,0.01,477.6151,-1.06047 (ppm)
+Pentabromobenzene-13C6,11.99,P15_D3_001,3604332,477.61475,N/A,11.99,0.00,477.6151,-.74099 (ppm)
+Pentabromobenzene-13C6,11.99,P16_B_001,3984695,477.61472,N/A,12,0.01,477.6151,-.80488 (ppm)
+Pentabromobenzene-13C6,11.99,P16_D1_001,1657649,477.61475,N/A,12,0.01,477.6151,-.74099 (ppm)
+Pentabromobenzene-13C6,11.99,P16_D2_001,N/F,N/F,N/A,N/F,N/F,477.6151,N/F
+Pentabromobenzene-13C6,11.99,P16_D3_001,1527046,477.61475,N/A,12,0.01,477.6151,-.74099 (ppm)
+Pentabromobenzene-13C6,11.99,QCB_001,3889484,477.61475,N/A,12,0.01,477.6151,-.74099 (ppm)
+Pentabromobenzene-13C6,11.99,QCP_001,2948451,477.61475,N/A,12,0.01,477.6151,-.74099 (ppm)
+Pentabromobenzene-13C6,11.99,SolventBlank_001,N/F,N/F,N/A,N/F,N/F,477.6151,N/F
+Pentabromobenzene-13C6,11.99,SolventBlank_002,N/F,N/F,N/A,N/F,N/F,477.6151,N/F
+Pentabromobenzene-13C6,11.99,Spk2_001,657318,477.61475,N/A,12.01,0.02,477.6151,-.74099 (ppm)
+Tributyl phosphate,16.18,Blk_001,N/F,N/F,17480438,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P12_B_001,N/F,N/F,41536369,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P12_D1_001,N/F,N/F,39217719,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P12_D2_001,N/F,N/F,38923782,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P12_D3_001,N/F,N/F,43800400,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P14_B_001,N/F,N/F,38869530,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P14_D1_001,N/F,N/F,39312935,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P14_D2_001,N/F,N/F,32902200,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P14_D3_001,N/F,N/F,35476817,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P14_D3_002,N/F,N/F,33369590,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P15_B_001,N/F,N/F,31544020,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P15_D1_001,N/F,N/F,31879862,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P15_D2_001,N/F,N/F,28447660,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P15_D3_001,N/F,N/F,33204869,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P16_B_001,N/F,N/F,30294614,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P16_D1_001,N/F,N/F,35263826,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P16_D2_001,N/F,N/F,235,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,P16_D3_001,N/F,N/F,27683422,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,QCB_001,N/F,N/F,39860953,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,QCP_001,N/F,N/F,34127669,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,SolventBlank_001,N/F,N/F,49044,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,SolventBlank_002,N/F,N/F,6221,N/F,N/F,<multiple>,N/F
+Tributyl phosphate,16.18,Spk2_001,N/F,N/F,18145852,N/F,N/F,<multiple>,N/F
+Tributyl phosphine oxide,8.74,Blk_001,233,92.0387,17480438,7.95,-0.79,<multiple>,2.13268 (ppm)
+Tributyl phosphine oxide,8.74,P12_B_001,637,92.03841,41536369,8.85,0.11,<multiple>,-1.01727 (ppm)
+Tributyl phosphine oxide,8.74,P12_D1_001,N/F,N/F,39217719,N/F,N/F,<multiple>,N/F
+Tributyl phosphine oxide,8.74,P12_D2_001,778,92.03852,38923782,8.83,0.09,<multiple>,.22613 (ppm)
+Tributyl phosphine oxide,8.74,P12_D3_001,N/F,N/F,43800400,N/F,N/F,<multiple>,N/F
+Tributyl phosphine oxide,8.74,P14_B_001,N/F,N/F,38869530,N/F,N/F,<multiple>,N/F
+Tributyl phosphine oxide,8.74,P14_D1_001,931,92.03857,39312935,8.51,-0.23,<multiple>,.72349 (ppm)
+Tributyl phosphine oxide,8.74,P14_D2_001,847,92.03872,32902200,10.21,1.47,<multiple>,2.38136 (ppm)
+Tributyl phosphine oxide,8.74,P14_D3_001,N/F,N/F,35476817,N/F,N/F,<multiple>,N/F
+Tributyl phosphine oxide,8.74,P14_D3_002,N/F,N/F,33369590,N/F,N/F,<multiple>,N/F
+Tributyl phosphine oxide,8.74,P15_B_001,283,92.0385,31544020,7.39,-1.35,<multiple>,-.02255 (ppm)
+Tributyl phosphine oxide,8.74,P15_D1_001,663,92.03876,31879862,8.67,-0.07,<multiple>,2.79583 (ppm)
+Tributyl phosphine oxide,8.74,P15_D2_001,249,92.03861,28447660,8.29,-0.45,<multiple>,1.22086 (ppm)
+Tributyl phosphine oxide,8.74,P15_D3_001,N/F,N/F,33204869,N/F,N/F,<multiple>,N/F
+Tributyl phosphine oxide,8.74,P16_B_001,349,92.03875,30294614,9.44,0.70,<multiple>,2.71294 (ppm)
+Tributyl phosphine oxide,8.74,P16_D1_001,783,92.03835,35263826,8.64,-0.10,<multiple>,-1.59752 (ppm)
+Tributyl phosphine oxide,8.74,P16_D2_001,N/F,N/F,235,N/F,N/F,<multiple>,N/F
+Tributyl phosphine oxide,8.74,P16_D3_001,N/F,N/F,27683422,N/F,N/F,<multiple>,N/F
+Tributyl phosphine oxide,8.74,QCB_001,N/F,N/F,39860953,N/F,N/F,<multiple>,N/F
+Tributyl phosphine oxide,8.74,QCP_001,733,92.03856,34127669,8.44,-0.30,<multiple>,.64060 (ppm)
+Tributyl phosphine oxide,8.74,SolventBlank_001,N/F,N/F,49044,N/F,N/F,<multiple>,N/F
+Tributyl phosphine oxide,8.74,SolventBlank_002,N/F,N/F,6221,N/F,N/F,<multiple>,N/F
+Tributyl phosphine oxide,8.74,Spk2_001,381,N/A,18145852,7.47,-1.27,<multiple>,N/A
+Triethyl phosphate,7.52,Blk_001,N/F,N/F,N/A,N/F,N/F,<multiple>,N/F
+Triethyl phosphate,7.52,P12_B_001,23862,98.98409,N/A,7.53,0.01,<multiple>,-1.16096 (ppm)
+Triethyl phosphate,7.52,P12_D1_001,49557,98.98411,N/A,7.52,0.00,<multiple>,-.92973 (ppm)
+Triethyl phosphate,7.52,P12_D2_001,24318,98.98411,N/A,7.52,0.00,<multiple>,-.92973 (ppm)
+Triethyl phosphate,7.52,P12_D3_001,50374,98.98413,N/A,7.52,0.00,<multiple>,-.69850 (ppm)
+Triethyl phosphate,7.52,P14_B_001,147314,98.98415,N/A,7.53,0.01,<multiple>,-.46727 (ppm)
+Triethyl phosphate,7.52,P14_D1_001,21491,98.98416,N/A,7.54,0.02,<multiple>,-.39019 (ppm)
+Triethyl phosphate,7.52,P14_D2_001,35980,98.98412,N/A,7.52,0.00,<multiple>,-.77558 (ppm)
+Triethyl phosphate,7.52,P14_D3_001,10797,98.98418,N/A,7.52,0.00,<multiple>,-.23604 (ppm)
+Triethyl phosphate,7.52,P14_D3_002,6430,98.98415,N/A,7.54,0.02,<multiple>,-.54435 (ppm)
+Triethyl phosphate,7.52,P15_B_001,19514,98.98412,N/A,7.54,0.02,<multiple>,-.77558 (ppm)
+Triethyl phosphate,7.52,P15_D1_001,9519,98.98414,N/A,7.54,0.02,<multiple>,-.62142 (ppm)
+Triethyl phosphate,7.52,P15_D2_001,3996,98.98409,N/A,7.56,0.04,<multiple>,-1.08389 (ppm)
+Triethyl phosphate,7.52,P15_D3_001,14110,98.98414,N/A,7.54,0.02,<multiple>,-.62142 (ppm)
+Triethyl phosphate,7.52,P16_B_001,188128,98.98413,N/A,7.52,0.00,<multiple>,-.69850 (ppm)
+Triethyl phosphate,7.52,P16_D1_001,9738,98.98418,N/A,7.56,0.04,<multiple>,-.23604 (ppm)
+Triethyl phosphate,7.52,P16_D2_001,N/F,N/F,N/A,N/F,N/F,<multiple>,N/F
+Triethyl phosphate,7.52,P16_D3_001,1211,98.98404,N/A,7.57,0.05,<multiple>,-1.62342 (ppm)
+Triethyl phosphate,7.52,QCB_001,30872,98.98413,N/A,7.52,0.00,<multiple>,-.69850 (ppm)
+Triethyl phosphate,7.52,QCP_001,2461,98.98408,N/A,7.54,0.02,<multiple>,-1.23804 (ppm)
+Triethyl phosphate,7.52,SolventBlank_001,N/F,N/F,N/A,N/F,N/F,<multiple>,N/F
+Triethyl phosphate,7.52,SolventBlank_002,N/F,N/F,N/A,N/F,N/F,<multiple>,N/F
+Triethyl phosphate,7.52,Spk2_001,N/F,N/F,N/A,N/F,N/F,<multiple>,N/F
+Triethyl phosphate-d15 (TEP-d15),12.31,Blk_001,N/F,N/F,N/A,N/F,N/F,<multiple>,N/F
+Triethyl phosphate-d15 (TEP-d15),12.31,P12_B_001,270107,103.04161,N/A,10.98,-1.33,<multiple>,.10401 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,P12_D1_001,1843062,103.04165,N/A,10.97,-1.34,<multiple>,.47422 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,P12_D2_001,104872,103.04163,N/A,10.98,-1.33,<multiple>,.32614 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,P12_D3_001,3073937,103.04163,N/A,10.97,-1.34,<multiple>,.32614 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,P14_B_001,40848,103.04166,N/A,11,-1.31,<multiple>,.54827 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,P14_D1_001,35112,103.04166,N/A,12.72,0.41,<multiple>,.54827 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,P14_D2_001,82530,103.04166,N/A,11,-1.31,<multiple>,.54827 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,P14_D3_001,663515,103.04164,N/A,10.97,-1.34,<multiple>,.40018 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,P14_D3_002,702348,103.04163,N/A,10.97,-1.34,<multiple>,.32614 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,P15_B_001,208191,103.04166,N/A,11,-1.31,<multiple>,.54827 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,P15_D1_001,4561876,103.0416,N/A,10.97,-1.34,<multiple>,-.04407 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,P15_D2_001,46425,103.04163,N/A,10.99,-1.32,<multiple>,.32614 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,P15_D3_001,1233408,103.04162,N/A,10.97,-1.34,<multiple>,.17806 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,P16_B_001,36120,103.04163,N/A,10.98,-1.33,<multiple>,.25210 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,P16_D1_001,4348997,103.04162,N/A,10.96,-1.35,<multiple>,.17806 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,P16_D2_001,N/F,N/F,N/A,N/F,N/F,<multiple>,N/F
+Triethyl phosphate-d15 (TEP-d15),12.31,P16_D3_001,26373,103.04163,N/A,12.73,0.42,<multiple>,.25210 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,QCB_001,159840,103.0416,N/A,10.98,-1.33,<multiple>,.02997 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,QCP_001,1046700,103.04162,N/A,10.97,-1.34,<multiple>,.17806 (ppm)
+Triethyl phosphate-d15 (TEP-d15),12.31,SolventBlank_001,N/F,N/F,N/A,N/F,N/F,<multiple>,N/F
+Triethyl phosphate-d15 (TEP-d15),12.31,SolventBlank_002,N/F,N/F,N/A,N/F,N/F,<multiple>,N/F
+Triethyl phosphate-d15 (TEP-d15),12.31,Spk2_001,N/F,N/F,N/A,N/F,N/F,<multiple>,N/F
+Tripentyl phosphate,11.03,Blk_001,220,98.98411,17480438,9.59,-1.44,<multiple>,1.09079 (ppm)
+Tripentyl phosphate,11.03,P12_B_001,18818,98.98405,41536369,9.53,-1.50,<multiple>,.55126 (ppm)
+Tripentyl phosphate,11.03,P12_D1_001,39654,98.98412,39217719,9.55,-1.48,<multiple>,1.16787 (ppm)
+Tripentyl phosphate,11.03,P12_D2_001,14056,98.98414,38923782,9.53,-1.50,<multiple>,1.39910 (ppm)
+Tripentyl phosphate,11.03,P12_D3_001,13910,98.98412,43800400,9.53,-1.50,<multiple>,1.24495 (ppm)
+Tripentyl phosphate,11.03,P14_B_001,12803,98.98411,38869530,9.54,-1.49,<multiple>,1.09079 (ppm)
+Tripentyl phosphate,11.03,P14_D1_001,24524,98.98409,39312935,9.53,-1.50,<multiple>,.93664 (ppm)
+Tripentyl phosphate,11.03,P14_D2_001,20939,98.98419,32902200,9.53,-1.50,<multiple>,1.93864 (ppm)
+Tripentyl phosphate,11.03,P14_D3_001,8035,98.98418,35476817,9.53,-1.50,<multiple>,1.78449 (ppm)
+Tripentyl phosphate,11.03,P14_D3_002,8869,98.98412,33369590,9.53,-1.50,<multiple>,1.16787 (ppm)
+Tripentyl phosphate,11.03,P15_B_001,14223,98.98413,31544020,9.54,-1.49,<multiple>,1.32203 (ppm)
+Tripentyl phosphate,11.03,P15_D1_001,14865,98.98409,31879862,9.53,-1.50,<multiple>,.85956 (ppm)
+Tripentyl phosphate,11.03,P15_D2_001,7806,98.98411,28447660,9.54,-1.49,<multiple>,1.09079 (ppm)
+Tripentyl phosphate,11.03,P15_D3_001,18869,98.98412,33204869,9.53,-1.50,<multiple>,1.16787 (ppm)
+Tripentyl phosphate,11.03,P16_B_001,78461,98.98414,30294614,9.53,-1.50,<multiple>,1.39910 (ppm)
+Tripentyl phosphate,11.03,P16_D1_001,6811,98.98414,35263826,9.53,-1.50,<multiple>,1.39910 (ppm)
+Tripentyl phosphate,11.03,P16_D2_001,183,98.98363,235,11.09,0.06,<multiple>,-3.68798 (ppm)
+Tripentyl phosphate,11.03,P16_D3_001,2337,98.98415,27683422,9.53,-1.50,<multiple>,1.55326 (ppm)
+Tripentyl phosphate,11.03,QCB_001,5525,98.98412,39860953,9.53,-1.50,<multiple>,1.24495 (ppm)
+Tripentyl phosphate,11.03,QCP_001,4783,98.98417,34127669,9.54,-1.49,<multiple>,1.70741 (ppm)
+Tripentyl phosphate,11.03,SolventBlank_001,N/F,N/F,49044,N/F,N/F,<multiple>,N/F
+Tripentyl phosphate,11.03,SolventBlank_002,N/F,N/F,6221,N/F,N/F,<multiple>,N/F
+Tripentyl phosphate,11.03,Spk2_001,217,98.98402,18145852,9.59,-1.44,<multiple>,.16587 (ppm)
+Triphenyl phosphate,15.71,Blk_001,N/F,N/F,17480438,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,P12_B_001,N/F,N/F,41536369,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,P12_D1_001,N/F,N/F,39217719,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,P12_D2_001,N/F,N/F,38923782,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,P12_D3_001,N/F,N/F,43800400,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,P14_B_001,N/F,N/F,38869530,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,P14_D1_001,N/F,N/F,39312935,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,P14_D2_001,N/F,N/F,32902200,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,P14_D3_001,N/F,N/F,35476817,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,P14_D3_002,N/F,N/F,33369590,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,P15_B_001,N/F,N/F,31544020,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,P15_D1_001,N/F,N/F,31879862,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,P15_D2_001,N/F,N/F,28447660,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,P15_D3_001,N/F,N/F,33204869,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,P16_B_001,N/F,N/F,30294614,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,P16_D1_001,4486,325.06052,35263826,16.87,1.16,<multiple>,-4.87182 (ppm)
+Triphenyl phosphate,15.71,P16_D2_001,N/F,N/F,235,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,P16_D3_001,N/F,N/F,27683422,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,QCB_001,N/F,N/F,39860953,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,QCP_001,N/F,N/F,34127669,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,SolventBlank_001,N/F,N/F,49044,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,SolventBlank_002,N/F,N/F,6221,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate,15.71,Spk2_001,N/F,N/F,18145852,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,Blk_001,N/F,N/F,17480438,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,P12_B_001,N/F,N/F,41536369,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,P12_D1_001,N/F,N/F,39217719,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,P12_D2_001,N/F,N/F,38923782,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,P12_D3_001,1274,343.12381,43800400,14.2,-1.40,<multiple>,1.77725 (ppm)
+Triphenyl phosphate-13C18,15.6,P14_B_001,696,343.12167,38869530,14.42,-1.18,<multiple>,-4.44859 (ppm)
+Triphenyl phosphate-13C18,15.6,P14_D1_001,N/F,N/F,39312935,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,P14_D2_001,N/F,N/F,32902200,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,P14_D3_001,N/F,N/F,35476817,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,P14_D3_002,N/F,N/F,33369590,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,P15_B_001,1484,343.1218,31544020,15.99,0.39,<multiple>,-4.09283 (ppm)
+Triphenyl phosphate-13C18,15.6,P15_D1_001,1610,343.12244,31879862,16.69,1.09,<multiple>,-2.22508 (ppm)
+Triphenyl phosphate-13C18,15.6,P15_D2_001,N/F,N/F,28447660,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,P15_D3_001,N/F,N/F,33204869,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,P16_B_001,N/F,N/F,30294614,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,P16_D1_001,4486,N/A,35263826,16.87,1.27,<multiple>,N/A
+Triphenyl phosphate-13C18,15.6,P16_D2_001,N/F,N/F,235,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,P16_D3_001,N/F,N/F,27683422,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,QCB_001,N/F,N/F,39860953,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,QCP_001,5855,343.12283,34127669,16.34,0.74,<multiple>,-1.06885 (ppm)
+Triphenyl phosphate-13C18,15.6,SolventBlank_001,N/F,N/F,49044,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,SolventBlank_002,N/F,N/F,6221,N/F,N/F,<multiple>,N/F
+Triphenyl phosphate-13C18,15.6,Spk2_001,N/F,N/F,18145852,N/F,N/F,<multiple>,N/F
+Tris(2-chloroethyl) phosphate,9.22,Blk_001,680,N/A,3968217,10.39,1.17,<multiple>,N/A
+Tris(2-chloroethyl) phosphate,9.22,P12_B_001,9894,248.98421,6973854,10.52,1.30,<multiple>,-1.08379 (ppm)
+Tris(2-chloroethyl) phosphate,9.22,P12_D1_001,85137,N/A,6306157,10.54,1.32,<multiple>,N/A
+Tris(2-chloroethyl) phosphate,9.22,P12_D2_001,45469,N/A,5854375,10.54,1.32,<multiple>,N/A
+Tris(2-chloroethyl) phosphate,9.22,P12_D3_001,64523,N/A,6321116,10.53,1.31,<multiple>,N/A
+Tris(2-chloroethyl) phosphate,9.22,P14_B_001,26808,248.98486,5653277,10.53,1.31,<multiple>,1.55143 (ppm)
+Tris(2-chloroethyl) phosphate,9.22,P14_D1_001,65838,N/A,5548788,10.54,1.32,<multiple>,N/A
+Tris(2-chloroethyl) phosphate,9.22,P14_D2_001,164033,248.98468,4391306,10.55,1.33,<multiple>,.81602 (ppm)
+Tris(2-chloroethyl) phosphate,9.22,P14_D3_001,162397,248.98438,4577212,10.53,1.31,<multiple>,-.40966 (ppm)
+Tris(2-chloroethyl) phosphate,9.22,P14_D3_002,411585,248.9843,3966503,10.54,1.32,<multiple>,-.71608 (ppm)
+Tris(2-chloroethyl) phosphate,9.22,P15_B_001,3095,248.98456,4199472,8.92,-0.30,<multiple>,.32575 (ppm)
+Tris(2-chloroethyl) phosphate,9.22,P15_D1_001,25568,N/A,4186286,10.54,1.32,<multiple>,N/A
+Tris(2-chloroethyl) phosphate,9.22,P15_D2_001,81247,N/A,3600742,10.54,1.32,<multiple>,N/A
+Tris(2-chloroethyl) phosphate,9.22,P15_D3_001,4345,248.98401,5081949,8.91,-0.31,<multiple>,-1.88048 (ppm)
+Tris(2-chloroethyl) phosphate,9.22,P16_B_001,149737,248.98402,5455441,10.53,1.31,<multiple>,-1.81920 (ppm)
+Tris(2-chloroethyl) phosphate,9.22,P16_D1_001,7307,248.98448,4601497,8.07,-1.15,<multiple>,.01932 (ppm)
+Tris(2-chloroethyl) phosphate,9.22,P16_D2_001,223,248.9854,N/F,8.73,-0.49,<multiple>,3.69637 (ppm)
+Tris(2-chloroethyl) phosphate,9.22,P16_D3_001,251819,N/A,3687796,10.53,1.31,<multiple>,N/A
+Tris(2-chloroethyl) phosphate,9.22,QCB_001,11796,N/A,6299443,8.1,-1.12,<multiple>,N/A
+Tris(2-chloroethyl) phosphate,9.22,QCP_001,93420,248.98465,5292044,10.55,1.33,<multiple>,.69345 (ppm)
+Tris(2-chloroethyl) phosphate,9.22,SolventBlank_001,333,248.98532,N/F,8.06,-1.16,<multiple>,3.38995 (ppm)
+Tris(2-chloroethyl) phosphate,9.22,SolventBlank_002,231,248.98509,N/F,7.98,-1.24,<multiple>,2.47069 (ppm)
+Tris(2-chloroethyl) phosphate,9.22,Spk2_001,460,248.98503,2890028,8.1,-1.12,<multiple>,2.22555 (ppm)
+Tris(2-chloroethyl) phosphate-d12,10.35,Blk_001,N/F,N/F,3968217,N/F,N/F,<multiple>,N/F
+Tris(2-chloroethyl) phosphate-d12,10.35,P12_B_001,267612,N/A,6973854,10.98,0.63,<multiple>,N/A
+Tris(2-chloroethyl) phosphate-d12,10.35,P12_D1_001,2130476,N/A,6306157,10.97,0.62,<multiple>,N/A
+Tris(2-chloroethyl) phosphate-d12,10.35,P12_D2_001,N/F,N/F,5854375,N/F,N/F,<multiple>,N/F
+Tris(2-chloroethyl) phosphate-d12,10.35,P12_D3_001,3327218,N/A,6321116,10.97,0.62,<multiple>,N/A
+Tris(2-chloroethyl) phosphate-d12,10.35,P14_B_001,60891,N/A,5653277,11,0.65,<multiple>,N/A
+Tris(2-chloroethyl) phosphate-d12,10.35,P14_D1_001,N/F,N/F,5548788,N/F,N/F,<multiple>,N/F
+Tris(2-chloroethyl) phosphate-d12,10.35,P14_D2_001,74416,N/A,4391306,11,0.65,<multiple>,N/A
+Tris(2-chloroethyl) phosphate-d12,10.35,P14_D3_001,662190,N/A,4577212,10.98,0.63,<multiple>,N/A
+Tris(2-chloroethyl) phosphate-d12,10.35,P14_D3_002,719293,N/A,3966503,10.97,0.62,<multiple>,N/A
+Tris(2-chloroethyl) phosphate-d12,10.35,P15_B_001,282643,N/A,4199472,10.99,0.64,<multiple>,N/A
+Tris(2-chloroethyl) phosphate-d12,10.35,P15_D1_001,5109230,N/A,4186286,10.97,0.62,<multiple>,N/A
+Tris(2-chloroethyl) phosphate-d12,10.35,P15_D2_001,57305,N/A,3600742,11,0.65,<multiple>,N/A
+Tris(2-chloroethyl) phosphate-d12,10.35,P15_D3_001,1434936,N/A,5081949,10.97,0.62,<multiple>,N/A
+Tris(2-chloroethyl) phosphate-d12,10.35,P16_B_001,N/F,N/F,5455441,N/F,N/F,<multiple>,N/F
+Tris(2-chloroethyl) phosphate-d12,10.35,P16_D1_001,4541694,N/A,4601497,10.97,0.62,<multiple>,N/A
+Tris(2-chloroethyl) phosphate-d12,10.35,P16_D2_001,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+Tris(2-chloroethyl) phosphate-d12,10.35,P16_D3_001,N/F,N/F,3687796,N/F,N/F,<multiple>,N/F
+Tris(2-chloroethyl) phosphate-d12,10.35,QCB_001,115289,N/A,6299443,10.98,0.63,<multiple>,N/A
+Tris(2-chloroethyl) phosphate-d12,10.35,QCP_001,1006728,N/A,5292044,10.98,0.63,<multiple>,N/A
+Tris(2-chloroethyl) phosphate-d12,10.35,SolventBlank_001,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+Tris(2-chloroethyl) phosphate-d12,10.35,SolventBlank_002,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+Tris(2-chloroethyl) phosphate-d12,10.35,Spk2_001,N/F,N/F,2890028,N/F,N/F,<multiple>,N/F
+Tris(2-chloropropyl) phosphate,9.65,Blk_001,N/F,N/F,3968217,N/F,N/F,<multiple>,N/F
+Tris(2-chloropropyl) phosphate,9.65,P12_B_001,22892,174.99222,6973854,9.27,-0.38,<multiple>,.10296 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,P12_D1_001,41200,174.99213,6306157,9.28,-0.37,<multiple>,-.42022 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,P12_D2_001,16305,174.9924,5854375,9.27,-0.38,<multiple>,1.14933 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,P12_D3_001,17261,174.99216,6321116,9.28,-0.37,<multiple>,-.24583 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,P14_B_001,15422,174.99223,5653277,9.27,-0.38,<multiple>,.19016 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,P14_D1_001,29154,174.9922,5548788,9.27,-0.38,<multiple>,.01577 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,P14_D2_001,27537,174.99217,4391306,9.27,-0.38,<multiple>,-.15863 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,P14_D3_001,13432,174.99216,4577212,9.27,-0.38,<multiple>,-.24583 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,P14_D3_002,11726,174.99214,3966503,9.27,-0.38,<multiple>,-.33302 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,P15_B_001,16455,174.99219,4199472,9.27,-0.38,<multiple>,-.07143 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,P15_D1_001,13936,174.99211,4186286,9.27,-0.38,<multiple>,-.50742 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,P15_D2_001,9713,174.99216,3600742,9.27,-0.38,<multiple>,-.24583 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,P15_D3_001,21605,174.99213,5081949,9.26,-0.39,<multiple>,-.42022 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,P16_B_001,78674,174.99216,5455441,9.26,-0.39,<multiple>,-.24583 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,P16_D1_001,9270,174.99219,4601497,9.27,-0.38,<multiple>,-.07143 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,P16_D2_001,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+Tris(2-chloropropyl) phosphate,9.65,P16_D3_001,4098,174.99226,3687796,9.27,-0.38,<multiple>,.36455 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,QCB_001,10731,174.992,6299443,9.26,-0.39,<multiple>,-1.11780 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,QCP_001,7116,174.99222,5292044,9.28,-0.37,<multiple>,.10296 (ppm)
+Tris(2-chloropropyl) phosphate,9.65,SolventBlank_001,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+Tris(2-chloropropyl) phosphate,9.65,SolventBlank_002,N/F,N/F,N/F,N/F,N/F,<multiple>,N/F
+Tris(2-chloropropyl) phosphate,9.65,Spk2_001,685,N/A,2890028,9.27,-0.38,<multiple>,N/A
